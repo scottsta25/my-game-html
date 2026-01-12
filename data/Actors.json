@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":1,"equips":[2,0,2,0,4],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Scott","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"simon b","characterIndex":0,"characterName":"simon","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"simon","traits":[],"initialLevel":1,"maxLevel":99,"name":"Simon","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"dan","characterIndex":0,"characterName":"dan","classId":3,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"dan","traits":[],"initialLevel":1,"maxLevel":99,"name":"dan","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"kevin","characterIndex":0,"characterName":"kevin","classId":4,"equips":[4,0,2,3,4],"faceIndex":0,"faceName":"kevin","traits":[],"initialLevel":1,"maxLevel":99,"name":"kevin","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
