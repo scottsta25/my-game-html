@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_1_MZ","characterIndex":0,"characterName":"!$Hero1","classId":1,"equips":[5,0,2,3,4],"faceIndex":0,"faceName":"Actor1_MZ","traits":[],"initialLevel":1,"maxLevel":99,"name":"Reid","nickname":"Akemi","note":"Face Breath Effect","profile":"I'm the chosen one!"},
+{"id":2,"battlerName":"Actor1_2_MZ","characterIndex":1,"characterName":"Actor1_MZ","classId":3,"equips":[1,1,2,3,0],"faceIndex":1,"faceName":"Actor1_MZ","traits":[],"initialLevel":1,"maxLevel":99,"name":"Priscilla","nickname":"Miki","note":"Face Breath Effect","profile":"Character Profile..."},
+{"id":3,"battlerName":"Actor1_3_MZ","characterIndex":2,"characterName":"Actor1_MZ","classId":2,"equips":[5,0,2,3,4],"faceIndex":2,"faceName":"Actor1_MZ","traits":[],"initialLevel":1,"maxLevel":99,"name":"Gale","nickname":"Tomoe","note":"Face Breath Effect","profile":"Character Profile..."},
+{"id":4,"battlerName":"Actor1_4_MZ","characterIndex":3,"characterName":"Actor1_MZ","classId":4,"equips":[6,1,2,3,0],"faceIndex":3,"faceName":"Actor1_MZ","traits":[],"initialLevel":1,"maxLevel":99,"name":"Michelle","nickname":"Sakura","note":"Face Breath Effect","profile":"Character Profile..."},
+{"id":5,"battlerName":"Actor1_5_MZ","characterIndex":4,"characterName":"Actor1_MZ","classId":1,"equips":[4,1,2,3,0],"faceIndex":4,"faceName":"Actor1_MZ","traits":[],"initialLevel":1,"maxLevel":99,"name":"Albert","nickname":"Kaname","note":"","profile":"Character Profile..."}
+]
